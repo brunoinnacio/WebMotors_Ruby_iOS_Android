@@ -3,7 +3,7 @@ automationName = "XCUITest"
 platformName = "iOS"
 deviceName = "iPhone 11 Pro Max"
 platformVersion = "14.0"
-bundleId = "com.br.blurep"
+app = "./app/ios/BluRep.app"
 [appium_lib]
 wait = 20
 debug = false

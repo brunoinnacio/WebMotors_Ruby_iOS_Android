@@ -10,7 +10,7 @@ ios:
 
     btn_entrar_ios:
       tipo_busca: 'XPATH'
-      value: '//Elem/XCUIentTypeButton[@name="Entrar"]'
+      value: '//XCUIElementTypeButton[@name="Entrar"]'
 
 
 android:

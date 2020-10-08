@@ -1,17 +1,15 @@
 Given('estou na tela de onbording') do
 
-    @home = HomePage.new
+  @home = HomePage.new
 
-    # @home.tap_alert
-    # sleep 3
+  @home.tap_alert
 
-    @home.tap_next_onbording
-    sleep 10  
+     
+  2.times {@home.tap_next_onbording
+  sleep 3} 
     
-
-    @home.tap_entrar
-    sleep 3  
-
+  @home.tap_entrar
+  sleep 3
 end
 
 

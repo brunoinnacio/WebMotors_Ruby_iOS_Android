@@ -9,16 +9,16 @@ class HomePage
   end
 
   def tap_alert
-    element_exists? @mappings['btn_tap_alert']
+    click @mappings['btn_tap_alert']
   end
 
   def tap_next_onbording
-    element_exists? @mappings['btn_next_ios']["XPATH"], @mappings['btn_next_android']["ID"]
+    click @mappings['btn_next_ios']
   end
 
   def tap_entrar
     click @mappings['btn_entrar_ios']
-    click @mappings['btn_entrar_android']
+    #click @mappings['btn_entrar_android']
     
   end
 
