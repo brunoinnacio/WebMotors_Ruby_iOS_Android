@@ -1,0 +1,12 @@
+
+[caps]
+platformName = "Android"
+deviceName = "Emulator"
+appPackage = "com.blu.blurep"
+appActivity = ".activity.SplashScreen"
+app = "./app/android/staging240920.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false

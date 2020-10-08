@@ -1,0 +1,34 @@
+ios:
+  home:
+    btn_tap_alert:   
+      tipo_busca: 'XPATH'
+      value: '//XCUIElementTypeButton[@name="Don’t Allow"]'
+          
+    btn_next_ios:
+      tipo_busca: 'XPATH'
+      value: '//XCUIElementTypeButton[@name="chevron.right"]'
+
+    btn_entrar_ios:
+      tipo_busca: 'XPATH'
+      value: '//Elem/XCUIentTypeButton[@name="Entrar"]'
+
+
+android:
+  home:
+    btn_next_android:
+      tipo_busca: 'ID'
+      value: 'com.blu.blurep:id/onboarding_next'
+
+    btn_entrar_android:
+      tipo_busca: 'ID'
+      value: 'com.blu.blurep:id/form_button'
+
+    # btn_quero_fazer_parte:
+    #   tipo_busca: 'XPATH'
+    #   value: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.Button'
+
+    # btn_entrar:
+    #   tipo_busca: 'XPATH'
+    #   value: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.Button'
+
+    
