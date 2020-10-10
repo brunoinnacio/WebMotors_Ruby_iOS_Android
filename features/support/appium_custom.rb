@@ -1,7 +1,4 @@
 # frozen_string_literal: true
-def metodo_teste
-  puts "TESTANDO CHAMADA"
-end
 
 def button_exists?(button)
   $logger.info("Verificando a existência do botão #{el} usando o tipo de busca XPATH")

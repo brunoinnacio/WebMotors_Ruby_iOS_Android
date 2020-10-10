@@ -5,21 +5,20 @@ class HomePage
 
   def initialize
     get_screen_mappings 'home', 'core'
-    
   end
 
   def tap_alert
-    click @mappings['btn_tap_alert']
+    click @mappings["btn_tap_alert"]
   end
 
   def tap_next_onbording
     click @mappings['btn_next_ios']
-  end
+    click @mappings ['btn_next_android']
+    end
 
   def tap_entrar
-    click @mappings['btn_entrar_ios']
-    #click @mappings['btn_entrar_android']
-    
+    @mappings['btn_entrar_ios']
+    @mappings['btn_entrar_android']
   end
 
   def refresh
