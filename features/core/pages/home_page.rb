@@ -14,7 +14,7 @@ class HomePage
   def tap_next_onbording
     click @mappings['btn_next_ios']
     click @mappings ['btn_next_android']
-    end
+  end
 
   def tap_entrar
     @mappings['btn_entrar_ios']
