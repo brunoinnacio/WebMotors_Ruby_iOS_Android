@@ -6,10 +6,10 @@ Given('estou na tela de onbording') do
   sleep 5
 
   2.times {@home.tap_next_onbording
-  sleep 5} 
+  sleep 1} 
     
   @home.tap_entrar
-  sleep 5
+  sleep 1
 end
 
 

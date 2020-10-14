@@ -17,6 +17,7 @@ end
 
 env = ENV['PLATFORM_NAME'].downcase
 
+
 case env
 when 'android'
   caps = load_appium_configuration(env)

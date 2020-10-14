@@ -8,15 +8,21 @@ class HomePage
   end
 
   def tap_alert
-    click @mappings["btn_tap_alert"]
+    if ENV['PLATFORM_NAME'].downcase == 'ios'
+      click @mappings["btn_tap_alert"]
+    end
   end
 
   def tap_next_onbording
-    click @mappings['btn_next_ios']
-    click @mappings ['btn_next_android']
+    if ENV['PLATFORM_NAME'].downcase == 'ios'
+      click @mappings['btn_next_ios']
+    else
+      click @mappings['btn_next_android']
+    end
   end
 
   def tap_entrar
+    
     @mappings['btn_entrar_ios']
     @mappings['btn_entrar_android']
   end
