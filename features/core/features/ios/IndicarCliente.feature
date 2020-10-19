@@ -1,6 +1,6 @@
 Feature: teste ios
  
-  @android
+  @ios
   Scenario: teste ios/android
 
     Given estou na tela de onbording Android

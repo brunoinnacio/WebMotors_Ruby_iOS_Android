@@ -18,3 +18,19 @@ I, [2020-10-19T17:40:57.723388 #33288]  INFO -- : Verificando se existe o elemen
 I, [2020-10-19T17:40:57.748499 #33288]  INFO -- : Aguardou a existência do elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
 I, [2020-10-19T17:40:57.826466 #33288]  INFO -- : Clicou no botão com.blu.blurep:id/onboarding_next usando o tipo de busca ID
 I, [2020-10-19T17:41:03.697371 #33288]  INFO -- : Teste finalizado
+I, [2020-10-19T17:47:26.274519 #33542]  INFO -- : Verificando se existe o elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:29.698141 #33542]  INFO -- : Aguardou a existência do elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:29.803691 #33542]  INFO -- : Clicou no botão com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:30.807984 #33542]  INFO -- : Verificando se existe o elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:30.830524 #33542]  INFO -- : Aguardou a existência do elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:30.957681 #33542]  INFO -- : Clicou no botão com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T17:47:36.345390 #33542]  INFO -- : Teste finalizado
+I, [2020-10-19T18:43:22.910211 #34600]  INFO -- : Teste finalizado
+I, [2020-10-19T18:43:29.657316 #34600]  INFO -- : Verificando se existe o elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:33.206368 #34600]  INFO -- : Aguardou a existência do elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:33.308858 #34600]  INFO -- : Clicou no botão com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:34.313929 #34600]  INFO -- : Verificando se existe o elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:34.337448 #34600]  INFO -- : Aguardou a existência do elemento com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:34.430850 #34600]  INFO -- : Clicou no botão com.blu.blurep:id/onboarding_next usando o tipo de busca ID
+I, [2020-10-19T18:43:40.493734 #34600]  INFO -- : Teste finalizado
+I, [2020-10-19T18:50:59.797993 #34804]  INFO -- : Teste finalizado
