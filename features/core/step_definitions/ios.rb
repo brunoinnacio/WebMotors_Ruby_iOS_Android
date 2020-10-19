@@ -1,6 +1,6 @@
 Given('estou na tela de onbording') do
 
-  @home = HomePage.new
+  @home = HomePageIOS.new
 
   @home.tap_alert
   sleep 5

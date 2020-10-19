@@ -1,0 +1,3 @@
+#indicar cliente - Novo 
+1 - Logar com o test.partner
+2 - fazer uma indicacao com CNPJ aleatorio
