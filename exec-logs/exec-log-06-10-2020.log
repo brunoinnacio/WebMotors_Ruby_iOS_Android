@@ -1,4 +1,0 @@
-# Logfile created on 2020-10-06 09:55:12 -0300 by logger.rb/66358
-I, [2020-10-06T16:29:04.890057 #42371]  INFO -- : Verificando se existe o elemento //XCUIElementTypeButton[@name="Don’t Allow"] usando o tipo de busca XPATH
-I, [2020-10-06T16:29:05.671990 #42371]  INFO -- : Aguardou a existência do elemento //XCUIElementTypeButton[@name="Don’t Allow"] usando o tipo de busca XPATH
-I, [2020-10-06T16:29:06.937381 #42371]  INFO -- : Clicou no botão //XCUIElementTypeButton[@name="Don’t Allow"] usando o tipo de busca XPATH
