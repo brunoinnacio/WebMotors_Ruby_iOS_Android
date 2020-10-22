@@ -70,3 +70,6 @@ Este projeto foi criado com a finalidade de criar um framework que realiza teste
          - hooks.rb (Before/After quer usamos para chamar o driver atual)
          - screen_mappings_implements.rb (Mapeia os pontos do YAML que contém os xpaths para serem usados no testes)
 **Gemfile (Depêndencias do projeto)**
+
+
+git remote set-url origin https://github.com/brunoinnacio/Cross-test-Android-IOS.git
