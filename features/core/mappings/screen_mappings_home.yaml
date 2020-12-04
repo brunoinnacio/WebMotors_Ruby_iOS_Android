@@ -1,27 +1,27 @@
-ios:
-  home:
-    btn_tap_alert:   
-      tipo_busca: 'XPATH'
-      value: '//XCUIElementTypeButton[@name="Don’t Allow"]'
+# ios:
+#   home:
+#     btn_tap_alert:   
+#       tipo_busca: 'XPATH'
+#       value: '//XCUIElementTypeButton[@name="Don’t Allow"]'
           
-    btn_next_ios:
-      tipo_busca: 'XPATH'
-      value: '//XCUIElementTypeButton[@name="chevron.right"]'
+#     btn_next_ios:
+#       tipo_busca: 'XPATH'
+#       value: '//XCUIElementTypeButton[@name="chevron.right"]'
 
-    btn_entrar_ios:
-      tipo_busca: 'XPATH'
-      value: '//XCUIElementTypeButton[@name="Entrar"]'
+#     btn_entrar_ios:
+#       tipo_busca: 'XPATH'
+#       value: '//XCUIElementTypeButton[@name="Entrar"]'
 
 
-android:
-  home:
-    btn_next_android:
-      tipo_busca: 'ID'
-      value: 'com.blu.blurep:id/onboarding_next'
+# android:
+#   home:
+#     btn_next_android:
+#       tipo_busca: 'ID'
+#       value: 'com.blu.blurep:id/onboarding_next'
 
-    btn_entrar_android:
-      tipo_busca: 'ID'
-      value: 'com.blu.blurep:id/form_button'
+#     btn_entrar_android:
+#       tipo_busca: 'ID'
+#       value: 'com.blu.blurep:id/form_button'
 
     # btn_quero_fazer_parte:
     #   tipo_busca: 'XPATH'

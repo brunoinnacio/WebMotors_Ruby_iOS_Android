@@ -1,11 +1,9 @@
 
 [caps]
 platformName = "Android"
-deviceName = "Emulator"
-appPackage = "com.blu.blurep"
-appActivity = ".activity.SplashScreen"
-app = "./app/android/staging240920.apk"
-autoGrantPermissions = true
+deviceName = "R9XN6095RGB"
+platformVersion = "10"
+app = "./app/android/webmotors.apk"
 newCommandTimeout = 3600
 [appium_lib]
 wait = 20

@@ -1,10 +1,10 @@
 [caps]
 automationName = "XCUITest"
 platformName = "iOS"
-deviceName = "iPhone 11 Pro Max"
-platformVersion = "14.0"
-app = "./app/ios/BluRep.app"
+deviceName = " iPhone Simulator"
+platformVersion = "14.2"
+app = "./app/ios/webmotors.app"
 [appium_lib]
-wait = 20
+wait = 60
 debug = false
 

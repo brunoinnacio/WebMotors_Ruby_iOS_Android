@@ -1,0 +1,12 @@
+# Logfile created on 2020-12-04 00:25:17 -0300 by logger.rb/v1.4.2
+I, [2020-12-04T00:27:57.913129 #78683]  INFO -- : Abriu o aplicativo
+I, [2020-12-04T00:28:09.640740 #78683]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-04T00:34:04.086666 #79161]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-04T00:34:14.765406 #79161]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-04T00:37:16.920568 #80218]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-04T00:38:29.220549 #80218]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-04T00:53:54.746272 #81759]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-04T00:53:57.397818 #81759]  INFO -- : IOS - Clicou no modelo do carro
+I, [2020-12-04T00:53:58.596873 #81759]  INFO -- : IOS - Validou todos os campos Versao Modelo Ano e Cor
+I, [2020-12-04T00:54:00.603403 #81759]  INFO -- : IOS - Voltou para Home
+I, [2020-12-04T00:54:12.185502 #81759]  INFO -- : Teste WebMotors finalizado

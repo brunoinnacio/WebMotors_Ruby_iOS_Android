@@ -5,5 +5,5 @@ end
 After do
   sleep 3
   $driver.driver_quit
-  $logger.info('Teste finalizado')
+  $logger.info('Teste WebMotors finalizado')
 end

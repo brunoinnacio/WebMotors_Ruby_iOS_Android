@@ -30,7 +30,7 @@ Este projeto foi criado com a finalidade de criar um framework que realiza teste
  - Levantar sua aplicação Appium
  - Instalar manualmente a `gem install allure-cucumber`
  -  Executar: `bundle install`
- - Para executar a suite de teste: `rake run_acceptance[platform,@tag_test]` - sendo platform = android/ios e @tag_test = as tags definidas na feature do cucumber
+ - Para executar a suite de teste: `noglob rake run_acceptance[platform,@tag_test]` - sendo platform = android/ios e @tag_test = as tags definidas na feature do cucumber
 
 
 

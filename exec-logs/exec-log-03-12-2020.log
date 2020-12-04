@@ -1,0 +1,49 @@
+# Logfile created on 2020-12-03 15:00:28 -0300 by logger.rb/v1.4.2
+I, [2020-12-03T15:00:40.717968 #41886]  INFO -- : Abriu o aplicativo
+I, [2020-12-03T15:01:04.159407 #41886]  INFO -- : Visualizou a Home
+I, [2020-12-03T15:01:04.492850 #41886]  INFO -- : Selecionou a Marca
+I, [2020-12-03T15:01:05.651563 #41886]  INFO -- : Validou todos os campos Versao Modelo Ano e Cor
+I, [2020-12-03T15:01:05.858578 #41886]  INFO -- : Voltou para Home
+I, [2020-12-03T15:01:09.314657 #41886]  INFO -- : Teste finalizado
+I, [2020-12-03T21:00:57.178314 #49579]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:01:53.075398 #49889]  INFO -- : Abriu o aplicativo
+I, [2020-12-03T21:03:02.349429 #49889]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:07:39.981906 #50174]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:09:04.219089 #50343]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:12:49.534400 #50507]  INFO -- : Abriu o aplicativo
+I, [2020-12-03T21:14:04.187204 #50507]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:22:07.747274 #51841]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:26:24.495836 #52581]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T21:27:38.367189 #52581]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:31:19.941775 #53303]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T21:32:33.617589 #53303]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:37:06.809189 #54544]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T21:38:21.656787 #54544]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:53:15.343484 #56114]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T21:54:28.957286 #56114]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T21:58:58.970477 #56845]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:00:13.551792 #56845]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:04:25.346453 #57817]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:05:37.085134 #57817]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:25:12.114931 #61849]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:27:26.593803 #61849]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:31:47.770846 #63111]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:33:00.108499 #63111]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:36:48.904966 #64885]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:38:02.253414 #64885]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:43:44.282944 #65594]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:44:56.831011 #65594]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:48:30.689926 #66643]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:48:33.705089 #66643]  INFO -- : Visualizou a Home IOS
+I, [2020-12-03T22:48:41.358172 #66643]  INFO -- : Selecionou a Marca IOS
+I, [2020-12-03T22:49:53.853431 #66643]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T22:55:56.681844 #67610]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T22:55:59.686589 #67610]  INFO -- : Visualizou a Home IOS
+I, [2020-12-03T22:56:06.982622 #67610]  INFO -- : Selecionou a Marca IOS
+I, [2020-12-03T22:57:18.756041 #67610]  INFO -- : Teste WebMotors finalizado
+I, [2020-12-03T23:58:00.172844 #70389]  INFO -- : Abriu o aplicativo IOS
+I, [2020-12-03T23:58:03.176576 #70389]  INFO -- : Visualizou a Home IOS
+I, [2020-12-03T23:58:11.176719 #70389]  INFO -- : Selecionou a Marca IOS
+I, [2020-12-03T23:58:11.920834 #70389]  INFO -- : IOS - Validou todos os campos Versao Modelo Ano e Cor
+I, [2020-12-03T23:58:13.327002 #70389]  INFO -- : IOS - Voltou para Home
+I, [2020-12-03T23:58:24.784585 #70389]  INFO -- : Teste WebMotors finalizado
