@@ -3,7 +3,7 @@
 Cucumber Cross testing core
 ================================
 
-Este projeto foi criado com a finalidade de criar um framework que realiza testes para IOS e ANDROID utilizando somente a busca pelos elementos separadamente.
+Este projeto foi criado com a finalidade de criar um framework que realiza testes para IOS e ANDROID utilizando somente a busca pelos elementos **separadamente**.
 
 ##**Tecnologias utilizadas**
  
@@ -24,15 +24,13 @@ Este projeto foi criado com a finalidade de criar um framework que realiza teste
  - Appium (http://appium.io/)
  - Android Device 4.1 >=
 
-##**Passos para execução:**
+**Passos para execução:**
 
  - Conectar seu Android ou IOS previamente configurado no Appium
  - Levantar sua aplicação Appium
  - Instalar manualmente a `gem install allure-cucumber`
  -  Executar: `bundle install`
  - Para executar a suite de teste: `noglob rake run_acceptance[platform,@tag_test]` - sendo platform = android/ios e @tag_test = as tags definidas na feature do cucumber
-
-
 
 **Organizacao das Pastas**
 ================================
@@ -71,5 +69,4 @@ Este projeto foi criado com a finalidade de criar um framework que realiza teste
          - screen_mappings_implements.rb (Mapeia os pontos do YAML que contém os xpaths para serem usados no testes)
 **Gemfile (Depêndencias do projeto)**
 
-
-git remote set-url origin https://github.com/brunoinnacio/Cross-test-Android-IOS.git
+git remote set-url origin https://github.com/brunoinnacio/WebMotors_Ruby_iOS_Android.git
